@@ -1,7 +1,7 @@
-<!DOCTYPE html>
-  <html>
-  <head>
-    
+<!DOCTYPE HTML>
+	<html>
+
+	<head>
   </head>
   <body>
 <h1>Building a Dynamic Form with PHP</h1>
