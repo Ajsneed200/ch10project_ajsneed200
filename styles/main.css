@@ -1,1 +1,22 @@
+body {
+	font-family: Helvetica, sans-serif;
+	background-color: rgb(127, 8, 206);
+}
 
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea,
+.confirmation-output {
+  padding: 15px;
+  text-spacing-trim: 12px;
+  border: 2px;
+}
+
+.error {
+    color: red;
+}
+
+.success {
+    color: green;
+}
