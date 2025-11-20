@@ -2,7 +2,7 @@
     <html>
 
     <head>
-<link rel="stylesheet" href="main.css" media = "screen, print" >
+       <link rel="stylesheet" type="text/css" href="styles/main.css" media = "screen, print" />
     </head>
     <body>
 <h1>Building a Dynamic Form with PHP</h1>
